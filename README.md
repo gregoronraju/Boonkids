@@ -1,2 +1,2 @@
 # Boonkids
-CRM for textile industry
+CRM for textile shops
